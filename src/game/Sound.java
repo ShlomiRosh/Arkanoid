@@ -24,7 +24,7 @@ public class Sound {
 
     public void playSound() {
         try {
-            AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(new File("C:\\Users\\User\\IdeaProjects\\ass6H1\\re\\sound\\"+name).getAbsoluteFile());
+            AudioInputStream audioInputStream = AudioSystem.getAudioInputStream(new File("C:\\Users\\User\\IdeaProjects\\arkanoid 1P1\\re\\sound\\"+name).getAbsoluteFile());
             // create clip reference
             clip = AudioSystem.getClip();
             // open audioInputStream to the clip

@@ -31,7 +31,7 @@ public class GameLoadingAnimation implements Animation {
         Image image;
         ClassLoader classLoader = Thread.currentThread().getContextClassLoader();
         URL resource = classLoader.getResource("giphy.gif");
-        ImageIcon imageIcon = new ImageIcon("C:\\Users\\User\\IdeaProjects\\ass6H1\\re\\giphy.gif");
+        ImageIcon imageIcon = new ImageIcon("re/giphy.gif");
         image = imageIcon.getImage();
         d.drawImage(0, 0, image);
         double currentTime = System.currentTimeMillis();
@@ -44,7 +44,7 @@ public class GameLoadingAnimation implements Animation {
             Image image1;
             ClassLoader classLoader1 = Thread.currentThread().getContextClassLoader();
             URL resource1 = classLoader1.getResource("arkanoid_logo.png");
-            ImageIcon imageIcon1 = new ImageIcon("C:\\Users\\User\\IdeaProjects\\ass6H1\\re\\arkanoid_logo.png");
+            ImageIcon imageIcon1 = new ImageIcon("re/arkanoid_logo.png");
             image1 = imageIcon1.getImage();
             d.drawImage(250, 250, image1);
         }
