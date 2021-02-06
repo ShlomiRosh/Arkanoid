@@ -1,0 +1,6 @@
+e:Easy
+definitions/easy_level_definitions.txt
+h:Hard
+definitions/hard_level_definitions.txt
+r:Real Madrid
+definitions/real_madrid_level_definitions.txt

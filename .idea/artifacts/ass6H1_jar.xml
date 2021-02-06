@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="ass6H1:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/ass6H1_jar</output-path>
+    <root id="archive" name="ass6H1.jar">
+      <element id="dir-copy" path="$USER_HOME$/Desktop/כל החומר/סמסטר ב/OOP/גאווה/lib" />
+      <element id="file-copy" path="$USER_HOME$/Desktop/כל החומר/סמסטר ב/OOP/גאווה/biuoop-1.4.jar" />
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,9 @@
+# default values for blocks
+default height:142 width:100 stroke:color(black) hit_points:1
+
+# block definitions
+bdef symbol:r fill:image(block_images/uefa_champions.jpg)
+bdef symbol:z fill:image(block_images/rial.jpg)
+
+# spacers definitions
+sdef symbol:- width:50

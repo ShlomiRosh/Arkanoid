@@ -1,0 +1,44 @@
+
+# Level 1
+# Single block direct hit
+
+
+START_LEVEL
+level_name: Champions Cups
+ball_velocities:180,500
+background:image(background_images/real-madrid.jpg)
+paddle_speed:650
+paddle_width:250
+block_definitions:definitions/real_madrid_block_definitions.txt
+blocks_start_x:0
+blocks_start_y:100
+row_height:142
+num_blocks:24
+START_BLOCKS
+
+-rrrrrrr-
+-rrrrrrz-
+
+END_BLOCKS
+END_LEVEL
+
+# Level 2
+
+START_LEVEL
+level_name: The Players
+ball_velocities:-60,400
+background:image(background_images/madrid.gif)
+paddle_speed:600
+paddle_width:280
+block_definitions:definitions/madrid_block_2_definitions.txt
+blocks_start_x:25
+blocks_start_y:50
+row_height:290
+num_blocks:1
+START_BLOCKS
+-----l-
+
+
+END_BLOCKS
+END_LEVEL
+

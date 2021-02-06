@@ -1,0 +1,8 @@
+# default values for blocks
+default height:290 width:220 stroke:color(black)
+
+# block definitions
+bdef symbol:l hit_points:23 fill:image(block_images/ezgif.com-resize.gif) fill-2:image(block_images/ezgif.com-resize2.gif) fill-3:image(block_images/ezgif.com-resize3.gif) fill-4:image(block_images/ezgif.com-resize4.gif) fill-5:image(block_images/ezgif.com-resize5.gif) fill-6:image(block_images/ezgif.com-resize7.gif) fill-7:image(block_images/ezgif.com-resize8.gif) fill-8:image(block_images/ezgif.com-resize9.gif) fill-9:image(block_images/ezgif.com-resize10.gif) fill-10:image(block_images/ezgif.com-resize11.gif) fill-11:image(block_images/ezgif.com-resize12.gif) fill-12:image(block_images/ezgif.com-resize13.gif) fill-13:image(block_images/ezgif.com-resize14.gif) fill-14:image(block_images/ezgif.com-resize15.gif) fill-15:image(block_images/ezgif.com-resize16.gif) fill-16:image(block_images/ezgif.com-resize17.gif) fill-17:image(block_images/ezgif.com-resize18.gif) fill-18:image(block_images/ezgif.com-resize19.gif) fill-19:image(block_images/ezgif.com-resize20.gif) fill-20:image(block_images/ezgif.com-resize21.gif) fill-21:image(block_images/ezgif.com-resize22.gif) fill-22:image(block_images/ezgif.com-resize23.gif) fill-23:image(block_images/ezgif.com-resze1.gif)
+
+# spacers definitions
+sdef symbol:- width:53
