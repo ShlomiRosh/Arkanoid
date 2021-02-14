@@ -6,8 +6,10 @@ In this version the stages in the game are separated from the code and interpret
 ![](git/menu.gif)
 -------------------------
 **Easy levels:**
+![](git/elc.gif)
 -------------------------
 **Hard levels:**
+![](git/hlc.gif)
 -------------------------
 **Real Madrid levels:**
 ![](git/RealMadrid.gif)
